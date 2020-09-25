@@ -1,0 +1,19 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    /* background-image: linear-gradient(to top, #051937, #004d7a, #008793, #00bf72, #a8eb12); */
+    /* background-image: linear-gradient(to top, #55585b, #6d7374, #878e8e, #a5aba7, #c5c7c1); */
+    background-image: linear-gradient(to top, #55585b, #7d7e81, #a7a7a9, #d2d2d3, #ffffff);
+}
+
+h1 {
+    font-family: Helvetica, 'Open Sans', Arial, sans-serif;
+    text-align: center;
+    margin-bottom: 3%;
+    margin-top: 10%;
+}
+
+#weather-container {
+    filter: drop-shadow(10px 10px 20px rgb(73, 73, 69)) opacity: 0.5;
+    opacity: 0.6;
+}
